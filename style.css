@@ -13,7 +13,7 @@
 }
 
  .banner-wrap{
-  background: url(./assets/banner.jpeg);
+  background: url(./assets/new-banner.jpg);
   background-position: center;
  background-size: cover;
  background-repeat: no-repeat;
@@ -47,6 +47,9 @@
 }
 
 .nav-masthead .active {
-  color: #fff;
-  border-bottom-color: #fff;
+  color: rgba(255, 255, 255, .5);
+}
+
+#connect{
+  line-height: 1.9;
 }
