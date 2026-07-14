@@ -53,3 +53,7 @@
 #connect{
   line-height: 1.9;
 }
+.card-img-top{
+  height: 250px;
+  object-fit: cover;
+}
