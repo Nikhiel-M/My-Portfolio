@@ -411,7 +411,9 @@ body.site-body {
   .project-mobile-grid {
     --bs-gutter-x: 0.5rem;
     --bs-gutter-y: 0.5rem;
+
   }
+
 
   .project-mobile-grid > [class*="col-"] {
     margin-top: 0 !important;
